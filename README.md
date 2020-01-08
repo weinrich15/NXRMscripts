@@ -14,5 +14,5 @@ Use these in careful consideration of your and your employers risk tolerance.  L
 Contributions:
 
 File issues here on GitHub but remember these are unsupported. 
-If you are a sonatype commercial customer please share your proven work here only after approval by your management.  
-All content are to be anonymized with no reference to persons or employers.
+If you are a sonatype commercial customer please share your proven work (after approval by your management). If you wish to not commit directly you may send to me or your CS Engineer to contribute for you. 
+All content should be anonymized with no reference to persons or employer.
