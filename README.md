@@ -1,4 +1,4 @@
-This is intended to be a collection of scripts built and proven in real world enterprise environments by Sonatype Commercial customers. They are generously shared by professional paying customer - not freeloading unrelaible open-source hippies.  
+This is intended to be a collection of scripts built and proven in real world enterprise environments by Sonatype Commercial customers. They are generously shared by professional paying customer - not some freeloading unreliable open-source hippies.  
 
 The Fine Print
 This is not a Sonatype product. These scripts are NOT SUPPORTED or waranteed by Sonatype or any contributor.   
